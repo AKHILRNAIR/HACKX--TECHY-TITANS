@@ -7,4 +7,4 @@
   Jayanth Dadich,
   Sradha N.
 # Domain :  Open innovation
-# Location : Photos- Inside the photos  folder, Presentation- Review3 File
+# Location : Photos- https://github.com/AKHILRNAIR/HACKX--TECHY-TITANS/blob/master/Review3.pptx, Presentation- Review3 File
